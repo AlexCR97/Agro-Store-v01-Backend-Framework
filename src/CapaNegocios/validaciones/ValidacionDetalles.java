@@ -49,6 +49,21 @@ public class ValidacionDetalles extends Validacion <Detalles> {
         return true;
     }
 
+    public boolean validarApellidos(){
+        return true;
+    }
+    public boolean validarEstrellas(){
+        return true;
+    }
+    public boolean validarNombres(){
+        return true;
+    }
+    public boolean validarFirmaElectronica(){
+        return true;
+    }
+    public boolean validarRfc(){
+        return true;
+    }
 
     @Override
     public boolean validar() {
