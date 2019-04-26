@@ -4,13 +4,16 @@ import CapaEntidades.TarjetasUsuario;
 
 import java.util.ArrayList;
 
-public class LectorTarjetasUsuario extends Lector<TarjetasUsuario> {
-    //private RepositorioTarjetasUsuario repositorio = new RepositorioTarjetasUsuario();
+public class LectorTarjetasUsuario extends LectorRelacion<TarjetasUsuario> {
+    @Override
+    public ArrayList<TarjetasUsuario> getEntidadesId(Object id) {
+        return null;
+    }
+
     @Override
     public TarjetasUsuario getEntidadId(Object id) {
         //return repositorio.seleccionarId(id);
         return null;
-
     }
 
     @Override
@@ -18,4 +21,6 @@ public class LectorTarjetasUsuario extends Lector<TarjetasUsuario> {
         //return repositorio.seleccionarTodo();
         return null;
     }
+    //private RepositorioTarjetasUsuario repositorio = new RepositorioTarjetasUsuario();
+
 }
