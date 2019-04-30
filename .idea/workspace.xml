@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="a1eb9aea-332b-4d32-87b2-46a128d87ff4" name="Default" comment="" />
+=======
+    <list default="true" id="a1eb9aea-332b-4d32-87b2-46a128d87ff4" name="Default" comment="">
+
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> d43bd7f0abcff0470acd2db58304ad3910856326
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +17,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+>>>>>>> d43bd7f0abcff0470acd2db58304ad3910856326
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,14 +53,18 @@
         <option value="$PROJECT_DIR$/src/CapaEntidades/Certificados.java" />
         <option value="$PROJECT_DIR$/src/CapaEntidades/UsuarioCertificado.java" />
         <option value="$PROJECT_DIR$/src/CapaEntidades/Empresa.java" />
-        <option value="$PROJECT_DIR$/src/CapaEntidades/Notificaciones.java" />
-        <option value="$PROJECT_DIR$/src/CapaEntidades/UsuarioNotificaciones.java" />
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds">
     <option name="x" value="241" />
     <option name="y" value="71" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="461" />
+    <option name="y" value="8" />
+>>>>>>> d43bd7f0abcff0470acd2db58304ad3910856326
     <option name="width" value="916" />
     <option name="height" value="728" />
   </component>
@@ -41,8 +73,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
       <pane id="PackagesPane" />
+=======
+>>>>>>> d43bd7f0abcff0470acd2db58304ad3910856326
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,7 +136,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556638035029" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> d43bd7f0abcff0470acd2db58304ad3910856326
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -187,7 +226,10 @@
   <component name="ToolWindowManager">
     <frame x="241" y="71" width="916" height="728" extended-state="0" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" weight="0.28621495" />
+=======
+>>>>>>> d43bd7f0abcff0470acd2db58304ad3910856326
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -215,18 +257,6 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="right" id="Maven" order="8" />
     </layout>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CapaPresentacion/Main.java</url>
-          <line>2</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/CapaDatos/conexiones/BaseDeDatos.java">
@@ -326,7 +356,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaEntidades/EmpresaCertificados.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+
           <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
           <folding>
             <element signature="e#354#355#0" expanded="true" />
@@ -343,6 +373,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaEntidades/Detalles.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
@@ -363,14 +394,12 @@
             <element signature="e#633#634#0" expanded="true" />
             <element signature="e#679#680#0" expanded="true" />
             <element signature="e#717#718#0" expanded="true" />
+=======
+>>>>>>> d43bd7f0abcff0470acd2db58304ad3910856326
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaEntidades/UsuarioNotificaciones.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
