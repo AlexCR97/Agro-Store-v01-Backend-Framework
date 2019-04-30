@@ -35,7 +35,7 @@ public class TipoUsuario {
 
     @Override
     public String toString() {
-        return "TipoUsuario{" +
+        return "EscritorTipoUsuario{" +
                 "idTipo=" + idTipo +
                 ", tipoUsuario='" + tipoUsuario + '\'' +
                 '}';
