@@ -2,7 +2,7 @@ package CapaNegocios.escritores;
 
 import CapaEntidades.EmpresaCertificados;
 
-public class EscritorEmpresaCertificados extends Escritor<EmpresaCertificados> {
+public class EscritorEmpresaCertificados extends EscritorRelacion<EmpresaCertificados> {
     //private RepositorioEmpresaCertificados repositorio = new RepositorioEmpresaCertificados();
     public EscritorEmpresaCertificados(int operacion, EmpresaCertificados empresaCertificados) {
         super(operacion, empresaCertificados);
@@ -15,7 +15,7 @@ public class EscritorEmpresaCertificados extends Escritor<EmpresaCertificados> {
     @Override
     public boolean ejecutarCambios() {
         if (operacion == OPERACION_ALTA)
-            //return repositorio.alta(entidad);
+            //repositorio.alta(entidad);
             return false;
 
         if (operacion == OPERACION_BAJA)
@@ -27,5 +27,8 @@ public class EscritorEmpresaCertificados extends Escritor<EmpresaCertificados> {
 
 
         return false;
+
     }
+
+
 }
