@@ -2,8 +2,9 @@ package CapaNegocios.escritores;
 
 import CapaEntidades.UsuarioCertificado;
 
-public class EscritorUsuarioCertificado extends Escritor<UsuarioCertificado> {
+public class EscritorUsuarioCertificado extends EscritorRelacion<UsuarioCertificado> {
     //private RepositorioUsuarioCertificado repositorio = new RepositorioUsuarioCertificado();
+
     public EscritorUsuarioCertificado(int operacion, UsuarioCertificado usuarioCertificado) {
         super(operacion, usuarioCertificado);
     }
@@ -28,4 +29,5 @@ public class EscritorUsuarioCertificado extends Escritor<UsuarioCertificado> {
 
         return false;
     }
+
 }

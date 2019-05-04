@@ -2,8 +2,9 @@ package CapaNegocios.escritores;
 
 import CapaEntidades.TarjetasUsuario;
 
-public class EscritorTarjetasUsuario extends Escritor<TarjetasUsuario> {
+public class EscritorTarjetasUsuario extends EscritorRelacion<TarjetasUsuario> {
     //private RepositorioTarjetasUsuario repositorio = new RepositorioTarjetasUsuario();
+
     public EscritorTarjetasUsuario(int operacion, TarjetasUsuario tarjetasUsuario) {
         super(operacion, tarjetasUsuario);
     }
@@ -15,7 +16,7 @@ public class EscritorTarjetasUsuario extends Escritor<TarjetasUsuario> {
     @Override
     public boolean ejecutarCambios() {
         if (operacion == OPERACION_ALTA)
-            //return repositorio.alta(entidad);
+            //repositorio.alta(entidad);
             return false;
 
         if (operacion == OPERACION_BAJA)
@@ -27,5 +28,7 @@ public class EscritorTarjetasUsuario extends Escritor<TarjetasUsuario> {
 
 
         return false;
+
     }
+
 }

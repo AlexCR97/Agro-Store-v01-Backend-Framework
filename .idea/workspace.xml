@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="a1eb9aea-332b-4d32-87b2-46a128d87ff4" name="Default" comment="" />
+=======
     <list default="true" id="a1eb9aea-332b-4d32-87b2-46a128d87ff4" name="Default" comment="">
 
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+>>>>>>> d43bd7f0abcff0470acd2db58304ad3910856326
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +17,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+=======
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
             <state relative-caret-position="102">
               <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
@@ -63,6 +70,7 @@
         <option value="Class" />
       </list>
     </option>
+>>>>>>> d43bd7f0abcff0470acd2db58304ad3910856326
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -80,9 +88,15 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="ProjectFrameBounds">
+    <option name="x" value="241" />
+    <option name="y" value="71" />
+=======
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="461" />
     <option name="y" value="8" />
+>>>>>>> d43bd7f0abcff0470acd2db58304ad3910856326
     <option name="width" value="916" />
     <option name="height" value="728" />
   </component>
@@ -91,10 +105,64 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+=======
+>>>>>>> d43bd7f0abcff0470acd2db58304ad3910856326
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
+              <item name="AGROSTORE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AGROSTORE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AGROSTORE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AGROSTORE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AGROSTORE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AGROSTORE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="CapaEntidades" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> 94c4a5861a0da309bae92d69745d6caa08e1ecf0
+            </path>
+            <path>
+              <item name="AGROSTORE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AGROSTORE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="CapaNegocios" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AGROSTORE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AGROSTORE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="CapaNegocios" type="462c0819:PsiDirectoryNode" />
+              <item name="escritores" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AGROSTORE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AGROSTORE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="CapaNegocios" type="462c0819:PsiDirectoryNode" />
+              <item name="lectores" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AGROSTORE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AGROSTORE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="CapaNegocios" type="462c0819:PsiDirectoryNode" />
+              <item name="validaciones" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AGROSTORE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AGROSTORE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="CapaPresentacion" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -103,7 +171,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556638035029" />
+=======
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> d43bd7f0abcff0470acd2db58304ad3910856326
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -124,6 +196,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CapaPresentacion.Main" />
+      <module name="Agro Store v01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CapaPresentacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -138,7 +224,6 @@
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
-      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -155,6 +240,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -169,6 +259,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
+    <frame x="241" y="71" width="916" height="728" extended-state="0" />
+    <layout>
+<<<<<<< HEAD
+      <window_info content_ui="combo" id="Project" order="0" weight="0.28621495" />
+=======
+>>>>>>> d43bd7f0abcff0470acd2db58304ad3910856326
+=======
+>>>>>>> 94c4a5861a0da309bae92d69745d6caa08e1ecf0
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -177,7 +276,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32872504" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -212,6 +311,24 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/CapaEntidades/EntidadFalsa.java" />
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/Escritor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorRelacion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/Lector.java">
+=======
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
@@ -219,6 +336,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaEntidades/EntidadFalsa.java">
+>>>>>>> 94c4a5861a0da309bae92d69745d6caa08e1ecf0
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
@@ -306,10 +424,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaEntidades/Detalles.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaEntidades/Notificaciones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <folding>
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+=======
+>>>>>>> d43bd7f0abcff0470acd2db58304ad3910856326
           </folding>
         </state>
       </provider>
     </entry>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Agro Store v01.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaPresentacion/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="2" />
         </state>
       </provider>
     </entry>
