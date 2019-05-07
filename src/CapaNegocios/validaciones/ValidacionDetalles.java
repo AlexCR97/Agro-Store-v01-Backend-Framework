@@ -1,11 +1,11 @@
 package CapaNegocios.validaciones;
 
-import CapaEntidades.Detalles;
+import CapaEntidades.DetallesUsuario;
 
-public class ValidacionDetalles extends Validacion <Detalles> {
+public class ValidacionDetalles extends Validacion <DetallesUsuario> {
 
-    public ValidacionDetalles(Detalles detalles) {
-        super(detalles);
+    public ValidacionDetalles(DetallesUsuario detallesUsuario) {
+        super(detallesUsuario);
     }
 
     /*    private long idDetalles;

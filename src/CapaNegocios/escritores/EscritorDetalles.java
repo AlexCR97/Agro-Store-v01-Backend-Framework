@@ -1,15 +1,16 @@
 package CapaNegocios.escritores;
-import CapaEntidades.Detalles;
-//imports CapaDatos.repositorios.RepositoriosDetalles;
-public class EscritorDetalles extends Escritor<Detalles>{
+import CapaEntidades.DetallesUsuario;
 
-    //private RepositorioDetalles repositorio = new RepositorioDetaller();
-    public EscritorDetalles(int operacion, Detalles detalles) {
-        super(operacion, detalles);
+//imports CapaDatos.repositorios.RepositoriosDetalles;
+public class EscritorDetalles extends Escritor<DetallesUsuario>{
+
+    //private RepositorioDetallesUsuario repositorio = new RepositorioDetaller();
+    public EscritorDetalles(int operacion, DetallesUsuario detallesUsuario) {
+        super(operacion, detallesUsuario);
     }
 
-    public EscritorDetalles(int operacion, Detalles detalles, Detalles entidadCambio) {
-        super(operacion, detalles, entidadCambio);
+    public EscritorDetalles(int operacion, DetallesUsuario detallesUsuario, DetallesUsuario entidadCambio) {
+        super(operacion, detallesUsuario, entidadCambio);
     }
 
     @Override
