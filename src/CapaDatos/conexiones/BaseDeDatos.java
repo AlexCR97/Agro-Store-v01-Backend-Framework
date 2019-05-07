@@ -14,13 +14,13 @@ import java.sql.SQLException;
         private String password;
 
         public BaseDeDatos(String host, String dbName, String user, String password) {
-            this.host = host;
-            this.dbName = dbName;
-            this.user = user;
-            this.password = password;
+            this.host = "localhost";
+            this.dbName = "Mercado";
+            this.user = "miguelgm";
+            this.password = "PAPASOTE21";
         }
 
-        public Connection getConnection() {
+        public Connection getConexion() {
             if (connection != null)
 
                 return connection;

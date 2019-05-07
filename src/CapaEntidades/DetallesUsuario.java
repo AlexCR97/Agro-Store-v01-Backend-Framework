@@ -1,6 +1,6 @@
 package CapaEntidades;
 
-public class Detalles {
+public class DetallesUsuario {
 
     private long idDetalles;
     private String calle;
@@ -16,10 +16,10 @@ public class Detalles {
     private String nombres;
     private String apellidos;
 
-    public Detalles() {
+    public DetallesUsuario() {
     }
 
-    public Detalles(String calle, String colonia, String cuidad, String estado, String pais, int cp, String escrituraOPermiso, double estrellas, String rfc, String firmaElectronica, String nombres, String apellidos) {
+    public DetallesUsuario(String calle, String colonia, String cuidad, String estado, String pais, int cp, String escrituraOPermiso, double estrellas, String rfc, String firmaElectronica, String nombres, String apellidos) {
         this.calle = calle;
         this.colonia = colonia;
         this.cuidad = cuidad;
@@ -34,7 +34,7 @@ public class Detalles {
         this.apellidos = apellidos;
     }
 
-    public Detalles(long idDetalles, String calle, String colonia, String cuidad, String estado, String pais, int cp, String escrituraOPermiso, double estrellas, String rfc, String firmaElectronica, String nombres, String apellidos) {
+    public DetallesUsuario(long idDetalles, String calle, String colonia, String cuidad, String estado, String pais, int cp, String escrituraOPermiso, double estrellas, String rfc, String firmaElectronica, String nombres, String apellidos) {
         this.idDetalles = idDetalles;
         this.calle = calle;
         this.colonia = colonia;
@@ -156,7 +156,7 @@ public class Detalles {
 
     @Override
     public String toString() {
-        return "Detalles{" +
+        return "DetallesUsuario{" +
                 "idDetalles=" + idDetalles +
                 ", calle='" + calle + '\'' +
                 ", colonia='" + colonia + '\'' +
