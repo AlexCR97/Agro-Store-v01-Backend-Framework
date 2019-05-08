@@ -12,6 +12,7 @@ public class RepositorioTipoUsuario extends Repositorio implements IContrato<Tip
         this.sqlAlta = "insert into TipoUsuario values (?)";
         this.sqlBaja = "delete from TipoUsuario where IDTipo = ?";
         this.sqlCambio = "update TipoUsuario set " +
+                "IDTipo = ?," +
                 "TipoUsuario = ? " +
                 "where IDTipo = ?";
         this.sqlSeleccionarId = "select * from TipoUsuario where IDTipo = ?";
@@ -22,7 +23,7 @@ public class RepositorioTipoUsuario extends Repositorio implements IContrato<Tip
     @Override
     public boolean alta(TipoUsuario e) {
         parametros= new ArrayList<>();
-        parametros.add(e.getIdTipo());
+        //parametros.add(e.getIdTipo());
         parametros.add(e.getTipoUsuario());
         return ejecutarConsulta(sqlAlta);
     }
@@ -39,6 +40,7 @@ public class RepositorioTipoUsuario extends Repositorio implements IContrato<Tip
         parametros= new ArrayList<>();
         parametros.add(e.getIdTipo());
         parametros.add(e.getTipoUsuario());
+        parametros.add(id);
         return ejecutarConsulta(sqlCambio);
     }
 

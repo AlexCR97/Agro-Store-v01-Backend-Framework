@@ -1,9 +1,11 @@
 package CapaNegocios.escritores;
 
+import CapaDatos.repositorios.RepositorioEmpresa;
 import CapaEntidades.Empresa;
 
 public class EscritorEmpresa extends  Escritor<Empresa> {
-    //private RepositorioEmpresa repositorio = new RepositorioEmpresa();
+
+    private RepositorioEmpresa repositorio = new RepositorioEmpresa();
 
     public EscritorEmpresa(int operacion, Empresa empresa) {
         super(operacion, empresa);
@@ -18,8 +20,7 @@ public class EscritorEmpresa extends  Escritor<Empresa> {
 
 
         if (operacion == OPERACION_ALTA)
-            //return repositorio.alta(entidad);
-            return false;
+            return repositorio.alta(entidad);
 
         if (operacion == OPERACION_BAJA)
             //return repositorio.baja(entidad.getIdDetalles());

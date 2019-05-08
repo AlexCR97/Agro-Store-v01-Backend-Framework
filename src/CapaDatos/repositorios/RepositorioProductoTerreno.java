@@ -12,6 +12,7 @@ public class RepositorioProductoTerreno extends Repositorio implements IContrato
         this.sqlAlta = "insert into ProductoTerreno values (?, ?)";
         this.sqlBaja = "delete from ProductoTerreno where IDNumProducto = ?";
         this.sqlCambio = "update ProductoTerreno set " +
+                "IDNumProducto = ?," +
                 "IDProducto = ?, " +
                 "IDTerreno = ? " +
                 "where IDNumProducto= ?";
@@ -22,7 +23,7 @@ public class RepositorioProductoTerreno extends Repositorio implements IContrato
     @Override
     public boolean alta(ProductoTerreno e) {
         parametros = new ArrayList<>();
-        parametros.add(e.getIdNumProduc());
+        //parametros.add(e.getIdNumProduc());
         parametros.add(e.getIdProducto());
         parametros.add(e.getIdTerreno());
         return ejecutarConsulta(sqlAlta);
@@ -42,6 +43,7 @@ public class RepositorioProductoTerreno extends Repositorio implements IContrato
         parametros.add(e.getIdNumProduc());
         parametros.add(e.getIdProducto());
         parametros.add(e.getIdTerreno());
+        parametros.add(id);
         return ejecutarConsulta(sqlCambio);
     }
 

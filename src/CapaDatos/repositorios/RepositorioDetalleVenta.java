@@ -13,6 +13,7 @@ public class RepositorioDetalleVenta extends Repositorio implements IContrato<De
         this.sqlAlta="insert into DetalleVenta values(?,?,?,?,?)";
         this.sqlBaja="delete from DetalleVenta where IDDEtalle = ?";
         this.sqlCambio="update DetalleVenta set" +
+                "IDDetalle = ?," +
                 "Producto = ?," +
                 "Precio = ?," +
                 "IDTerreno = ?," +
@@ -28,7 +29,7 @@ public class RepositorioDetalleVenta extends Repositorio implements IContrato<De
     public boolean alta(DetalleVenta e) {
 
         parametros = new ArrayList<>();
-        parametros.add(e.getIdDetalle());
+       // parametros.add(e.getIdDetalle());
         parametros.add(e.getProducto());
         parametros.add(e.getPrecioTonelada());
         parametros.add(e.getIdTerreno());
@@ -56,6 +57,7 @@ public class RepositorioDetalleVenta extends Repositorio implements IContrato<De
         parametros.add(e.getIdTerreno());
         parametros.add(e.getFecha());
         parametros.add(e.getTamaño());
+        parametros.add(id);
         return ejecutarConsulta(sqlCambio);
     }
 

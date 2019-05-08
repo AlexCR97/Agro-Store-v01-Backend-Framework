@@ -12,6 +12,7 @@ public class RepositorioTerreno extends Repositorio implements IContrato<Terreno
         this.sqlAlta = "insert into Terreno values (?, ?, ?)";
         this.sqlBaja = "delete from Terreno where IDTerreno = ?";
         this.sqlCambio = "update Terreno set " +
+                "IDTerreno = ?," +
                 "Tamaño = ?, " +
                 "Medida = ?, " +
                 "Tipo = ?, " +
@@ -25,7 +26,6 @@ public class RepositorioTerreno extends Repositorio implements IContrato<Terreno
     @Override
     public boolean alta(Terreno e) {
         parametros= new ArrayList<>();
-        parametros.add(e.getIdTerreno());
         parametros.add(e.getTamaño());
         parametros.add(e.getMedida());
         parametros.add(e.getTipo());
@@ -46,6 +46,7 @@ public class RepositorioTerreno extends Repositorio implements IContrato<Terreno
         parametros.add(e.getTamaño());
         parametros.add(e.getMedida());
         parametros.add(e.getTipo());
+        parametros.add(id);
         return ejecutarConsulta(sqlCambio);
     }
 

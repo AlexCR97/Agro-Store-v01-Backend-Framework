@@ -9,9 +9,10 @@ import java.util.ArrayList;
 public class RepositorioMultiplesCompras extends Repositorio implements IContrato<MultiplesCompras> {
 
     public RepositorioMultiplesCompras(){
-        this.sqlAlta = "insert into MultiplesCompras values (?, ?)";
+        this.sqlAlta = "insert into MultiplesCompras values (?)";
         this.sqlBaja = "delete from MultiplesCompras where IDNumProducto = ?";
         this.sqlCambio = "update MultiplesCompras set " +
+                "IDNumProducto = ?," +
                 "IDCarrito = ? " +
                 "where IDNumProducto = ?";
         this.sqlSeleccionarId = "select * from MultiplesCompras where IDNumProducto = ?";
@@ -22,7 +23,7 @@ public class RepositorioMultiplesCompras extends Repositorio implements IContrat
     @Override
     public boolean alta(MultiplesCompras e) {
         parametros = new ArrayList<>();
-        parametros.add(e.getIdNumProducto());
+        //parametros.add(e.getIdNumProducto());
         parametros.add(e.getIdCar());
         return ejecutarConsulta(sqlAlta);
     }
@@ -39,6 +40,7 @@ public class RepositorioMultiplesCompras extends Repositorio implements IContrat
         parametros = new ArrayList<>();
         parametros.add(e.getIdNumProducto());
         parametros.add(e.getIdCar());
+        parametros.add(id);
         return ejecutarConsulta(sqlCambio);
     }
 
