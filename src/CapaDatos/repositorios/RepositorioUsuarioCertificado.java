@@ -11,6 +11,7 @@ public class RepositorioUsuarioCertificado extends Repositorio implements IContr
         this.sqlAlta = "insert into UsuarioCertificado values (?, ?)";
         this.sqlBaja = "delete from UsuarioCertificado where IDUsuario = ?";
         this.sqlCambio = "update UsuarioCertificado set " +
+                "IDUsuario = ?," +
                 "IDCertificados = ? " +
                 "where IDUsuario = ?";
         this.sqlSeleccionarId = "select * from UsuarioCertificado where IDUsuario = ?";
@@ -21,7 +22,7 @@ public class RepositorioUsuarioCertificado extends Repositorio implements IContr
     @Override
     public boolean alta(UsuarioCertificado e) {
         parametros = new ArrayList<>();
-        parametros.add(e.getIdUsuario());
+        //parametros.add(e.getIdUsuario());
         parametros.add(e.getIdCertificados());
         return ejecutarConsulta(sqlAlta);
     }
@@ -38,6 +39,7 @@ public class RepositorioUsuarioCertificado extends Repositorio implements IContr
         parametros = new ArrayList<>();
         parametros.add(e.getIdUsuario());
         parametros.add(e.getIdCertificados());
+        parametros.add(id);
         return ejecutarConsulta(sqlCambio);
     }
 

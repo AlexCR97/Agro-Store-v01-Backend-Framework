@@ -12,7 +12,8 @@ public class RepositorioCategorias extends Repositorio implements IContrato<Cate
     public RepositorioCategorias(){
         this.sqlAlta="insert into Categorias values (?)";
         this.sqlBaja="delete from Categorias where IDCategorias = ?";
-        this.sqlCambio="update Categorias set "+
+        this.sqlCambio="update Categorias set " +
+                "IDCategorias = ?,"+
                 "Nombre = ?" +
                 "where IDCategorias = ?";
         this.sqlSeleccionarId="select * from Categorias where IDCategorias = ?";
@@ -23,7 +24,7 @@ public class RepositorioCategorias extends Repositorio implements IContrato<Cate
     @Override
     public boolean alta(Categorias e) {
         parametros = new ArrayList<>();
-        parametros.add(e.getIdCategoria());
+        //parametros.add(e.getIdCategoria());
         parametros.add(e.getNombre());
         return ejecutarConsulta(sqlAlta);
 
@@ -42,6 +43,7 @@ public class RepositorioCategorias extends Repositorio implements IContrato<Cate
         parametros= new ArrayList<>();
         parametros.add(e.getIdCategoria());
         parametros.add(e.getNombre());
+        parametros.add(id);
         return ejecutarConsulta(sqlCambio);
 
     }

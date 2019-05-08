@@ -9,11 +9,12 @@ public class RepositorioTarjetasUsuario extends Repositorio implements IContrato
 
     public RepositorioTarjetasUsuario(){
         this.sqlAlta = "insert into TarjetasUsuario values (?, ?)";
-        this.sqlBaja = "delete from TarjetasUsuario where numTarjeta = ?";
+        this.sqlBaja = "delete from TarjetasUsuario where IDTarjeta = ?";
         this.sqlCambio = "update TarjetasUsuario set " +
-                "idUsuario = ? " +
-                "where numTarjeta = ?";
-        this.sqlSeleccionarId = "select * from TarjetasUsuario where numTarjeta = ?";
+                "IDTarjeta = ?," +
+                "IDUsuario = ? " +
+                "where IDTarjeta = ?";
+        this.sqlSeleccionarId = "select * from TarjetasUsuario where IDTarjeta = ?";
         this.sqlSeleccionarTodo = "select * from TarjetasUsuario";
 
     }
@@ -21,7 +22,7 @@ public class RepositorioTarjetasUsuario extends Repositorio implements IContrato
     @Override
     public boolean alta(TarjetasUsuario e) {
         parametros= new ArrayList<>();
-        parametros.add(e.getNumTarjeta());
+        //parametros.add(e.getNumTarjeta());
         parametros.add(e.getIdUsuario());
         return ejecutarConsulta(sqlAlta);
     }

@@ -14,6 +14,7 @@ public class RepositorioCertificados extends Repositorio implements IContrato<Ce
         this.sqlAlta="inser into Certificado values (?,?,?,?,?)";
         this.sqlBaja="delete from Certificado where IDCertificado = ?";
         this.sqlCambio="update Certificado set " +
+                "IDCertificado = ?," +
                 "Nombre = ?," +
                 "Vigencia = ?, " +
                 "TituloCertificado = ?," +
@@ -29,7 +30,7 @@ public class RepositorioCertificados extends Repositorio implements IContrato<Ce
     @Override
     public boolean alta(Certificados e) {
     parametros = new ArrayList<>();
-    parametros.add(e.getIdCertificados());
+    //parametros.add(e.getIdCertificados());
     parametros.add(e.getNombre());
     parametros.add(e.getVigencia());
     parametros.add(e.getTituloCertificado());
@@ -53,6 +54,7 @@ public class RepositorioCertificados extends Repositorio implements IContrato<Ce
     parametros.add(e.getTituloCertificado());
     parametros.add(e.getFechaExpedido());
     parametros.add(e.getSello());
+    parametros.add(id);
     return ejecutarConsulta(sqlCambio);
     }
 

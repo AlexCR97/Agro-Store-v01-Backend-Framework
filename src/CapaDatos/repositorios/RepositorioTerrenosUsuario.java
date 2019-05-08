@@ -12,6 +12,7 @@ public class RepositorioTerrenosUsuario extends RepositorioRelacion implements I
         this.sqlAlta = "insert into TerrenoUsuario values (?, ?)";
         this.sqlBaja = "delete from TerrenoUsuario where IDUsuario = ?";
         this.sqlCambio = "update TerrenoUsuario set " +
+                "IDUsuario = ?," +
                 "IDTerreno = ? " +
                 "where IDUsuario = ?";
         this.sqlSeleccionarId = "select * from TerrenoUsuario where IDUsuario = ?";
@@ -21,7 +22,7 @@ public class RepositorioTerrenosUsuario extends RepositorioRelacion implements I
     @Override
     public boolean alta(TerrenosUsuario e) {
         parametros= new ArrayList<>();
-        parametros.add(e.getIdUsuario());
+        //parametros.add(e.getIdUsuario());
         parametros.add(e.getIdTerreno());
         return ejecutarConsulta(sqlAlta);
     }
@@ -38,6 +39,7 @@ public class RepositorioTerrenosUsuario extends RepositorioRelacion implements I
         parametros= new ArrayList<>();
         parametros.add(e.getIdUsuario());
         parametros.add(e.getIdTerreno());
+        parametros.add(id);
         return ejecutarConsulta(sqlCambio);
     }
 

@@ -11,6 +11,7 @@ public class RepositorioDetallesUsuario extends Repositorio implements IContrato
         this.sqlAlta = "insert into DetallesUsuario values (?,?,?,?,?,?,?,?,?,?,?)";
         this.sqlBaja = "delete from DetallesUsuario where IDDetalles = ?";
         this.sqlCambio = "update DetallesUsuario set" +
+                "IDDetalles = ?," +
                 "Nombre = ?," +
                 "Apellido = ?," +
                 "Calle = ?," +
@@ -32,7 +33,7 @@ public class RepositorioDetallesUsuario extends Repositorio implements IContrato
     @Override
     public boolean alta(DetallesUsuario e) {
         parametros = new ArrayList<>();
-        parametros.add(e.getIdDetalles());
+        //parametros.add(e.getIdDetalles());
         parametros.add(e.getNombres());
         parametros.add(e.getApellidos());
         parametros.add(e.getCalle());
@@ -71,6 +72,7 @@ public class RepositorioDetallesUsuario extends Repositorio implements IContrato
         parametros.add(e.getRfc());
         parametros.add(e.getFirmaElectronica());
         parametros.add(e.getCuidad());
+        parametros.add(id);
         return ejecutarConsulta(sqlCambio);
     }
 

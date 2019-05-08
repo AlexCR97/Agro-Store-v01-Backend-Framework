@@ -1,13 +1,15 @@
 package CapaNegocios.lectores;
 
+import CapaDatos.repositorios.RepositorioEmpresa;
 import CapaEntidades.Empresa;
 
 import java.util.ArrayList;
 
 public class LectorEmpresa extends Lector<Empresa> {
-    //private RepositorioEmpresa respositorio = new RepositorioEmpresa();
+    private RepositorioEmpresa repositorio = new RepositorioEmpresa();
     @Override
     public Empresa getEntidadId(Object id) {
+
 
         //return repositorio.seleccionarId(id);
         return null;
@@ -15,7 +17,6 @@ public class LectorEmpresa extends Lector<Empresa> {
 
     @Override
     public ArrayList<Empresa> getEntidades() {
-        //return repositorio.selecctionarTodo();
-        return null;
+        return repositorio.seleccionarTodo();
     }
 }

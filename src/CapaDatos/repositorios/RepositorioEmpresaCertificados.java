@@ -12,6 +12,7 @@ public class RepositorioEmpresaCertificados extends Repositorio implements ICont
         this.sqlAlta = "insert into EmpresaCertificado values (?, ?)";
         this.sqlBaja = "delete from EmpresaCertificado where IDCertificados = ?";
         this.sqlCambio = "update EmpresaCertificado set " +
+                "IDCertificados = ?," +
                 "IDEmpresa = ? " +
                 "where IDCertificados = ?";
         this.sqlSeleccionarId = "select * from EmpresaCertificado where IDCertificados = ?";
@@ -22,7 +23,7 @@ public class RepositorioEmpresaCertificados extends Repositorio implements ICont
     @Override
     public boolean alta(EmpresaCertificados e) {
         parametros = new ArrayList<>();
-        parametros.add(e.getIdEmpresa());
+        //parametros.add(e.getIdEmpresa());
         parametros.add(e.getIdCertificados());
         return ejecutarConsulta(sqlAlta);
     }
@@ -40,6 +41,7 @@ public class RepositorioEmpresaCertificados extends Repositorio implements ICont
         parametros = new ArrayList<>();
         parametros.add(e.getIdEmpresa());
         parametros.add(e.getIdCertificados());
+        parametros.add(id);
         return ejecutarConsulta(sqlCambio);
     }
 

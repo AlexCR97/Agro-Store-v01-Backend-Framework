@@ -11,9 +11,10 @@ import java.util.ArrayList;
 public class RepositorioUsuarioNotificaciones extends Repositorio implements IContrato<UsuarioNotificaciones> {
 
     public RepositorioUsuarioNotificaciones(){
-        this.sqlAlta = "insert into UsuarioNotificaciones values (?, ?)";
+        this.sqlAlta = "insert into UsuarioNotificaciones values (?)";
         this.sqlBaja = "delete from UsuarioNotificaciones where IDUsuario = ?";
-        this.sqlCambio = "update UsuarioNotificaciones set " +
+        this.sqlCambio = "update UsuarioNotificaciones set" +
+                "IDUsuario = ?, " +
                 "IDNotificacion = ?, " +
                 "where IDUsuario = ?";
         this.sqlSeleccionarId = "select * from UsuarioNotificaciones where IDUsuario = ?";
@@ -22,7 +23,7 @@ public class RepositorioUsuarioNotificaciones extends Repositorio implements ICo
     @Override
     public boolean alta(UsuarioNotificaciones e) {
        parametros = new ArrayList<>();
-       parametros.add(e.getIdUsuario());
+       //parametros.add(e.getIdUsuario());
        parametros.add(e.getIdNotificacion());
        return ejecutarConsulta(sqlAlta);
 
@@ -40,6 +41,7 @@ public class RepositorioUsuarioNotificaciones extends Repositorio implements ICo
         parametros = new ArrayList<>();
         parametros.add(e.getIdUsuario());
         parametros.add(e.getIdNotificacion());
+        parametros.add(id);
         return ejecutarConsulta(sqlCambio);
     }
 

@@ -11,6 +11,7 @@ public class RepositorioEmpresa extends Repositorio implements IContrato<Empresa
         this.sqlAlta = "insert into Empresa values (?, ?, ?, ?)";
         this.sqlBaja = "delete from Empresa where IDEmpresa = ?";
         this.sqlCambio = "update Empresa set " +
+                "IDEmpresa = ?," +
                 "Nombre = ?, " +
                 "Dirección = ?, " +
                 "NumTelefono = ?, " +
@@ -25,7 +26,6 @@ public class RepositorioEmpresa extends Repositorio implements IContrato<Empresa
     public boolean alta(Empresa e) {
 
         parametros = new ArrayList<>();
-        parametros.add(e.getIdEmpresa());
         parametros.add(e.getNombre());
         parametros.add(e.getDireccion());
         parametros.add(e.getNumTelefono());

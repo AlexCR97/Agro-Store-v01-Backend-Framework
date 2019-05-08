@@ -22,7 +22,7 @@ public class RepositorioCarrito extends Repositorio implements IContrato<Carrito
     @Override
     public boolean alta(Carrito e) {
         parametros = new ArrayList<>();
-        parametros.add(e.getIdCar());
+       // parametros.add(e.getIdCar());
         parametros.add(e.getIdUsuario());
         return ejecutarConsulta(sqlAlta);
     }
@@ -39,6 +39,7 @@ public class RepositorioCarrito extends Repositorio implements IContrato<Carrito
         parametros= new ArrayList<>();
         parametros.add(e.getIdCar());
         parametros.add(e.getIdUsuario());
+        parametros.add(id);
         return ejecutarConsulta(sqlCambio);
     }
 

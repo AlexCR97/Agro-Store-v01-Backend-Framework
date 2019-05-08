@@ -11,7 +11,8 @@ public class RepositorioNotificaciones extends Repositorio implements IContrato<
     public RepositorioNotificaciones(){
         this.sqlAlta = "insert into Notificaciones values (?)";
         this.sqlBaja = "delete from Notificaciones where IDNotificaciones = ?";
-        this.sqlCambio = "update Notificaciones set " +
+        this.sqlCambio = "update Notificaciones set" +
+                "IDNotificaciones = ?, " +
                 "Detalle = ? " +
                 "where IDNotificaciones = ?";
         this.sqlSeleccionarId = "select * from Notificaciones where IDNotificaciones = ?";
@@ -21,7 +22,7 @@ public class RepositorioNotificaciones extends Repositorio implements IContrato<
     @Override
     public boolean alta(Notificaciones e) {
     parametros = new ArrayList<>();
-    parametros.add(e.getIdNotificacion());
+    //parametros.add(e.getIdNotificacion());
     parametros.add(e.getDetalle());
     return ejecutarConsulta(sqlAlta);
     }
@@ -38,6 +39,7 @@ public class RepositorioNotificaciones extends Repositorio implements IContrato<
         parametros = new ArrayList<>();
         parametros.add(e.getIdNotificacion());
         parametros.add(e.getDetalle());
+        parametros.add(id);
         return ejecutarConsulta(sqlCambio);
     }
 
