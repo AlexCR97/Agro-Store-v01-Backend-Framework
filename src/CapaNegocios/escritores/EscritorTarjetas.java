@@ -1,9 +1,11 @@
 package CapaNegocios.escritores;
 
+import CapaDatos.repositorios.RepositorioTarjetas;
 import CapaEntidades.Tarjetas;
 
 public class EscritorTarjetas extends  Escritor<Tarjetas> {
-    //private RepositorioTarjetas repositorio = new RepositorioTarjetas();
+    //checar id
+    private RepositorioTarjetas repositorio = new RepositorioTarjetas();
     public EscritorTarjetas(int operacion, Tarjetas tarjetas) {
         super(operacion, tarjetas);
 
@@ -16,12 +18,13 @@ public class EscritorTarjetas extends  Escritor<Tarjetas> {
     @Override
     public boolean ejecutarCambios() {
         if (operacion == OPERACION_ALTA)
-            // return  repositorio.
-            return false;
+             return  repositorio.alta(entidad);
+
         if (operacion == OPERACION_BAJA)
-            return false;
+            return repositorio.baja(entidad.getNumTarjeta());
+
         if  (operacion == OPERACION_CAMBIO)
-            return  false;
+            return  repositorio.cambio(entidad.getNumTarjeta(),entidadCambio);
 
 
         return false;

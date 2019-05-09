@@ -1,21 +1,20 @@
 package CapaNegocios.lectores;
 
+import CapaDatos.repositorios.RepositorioEmpresaCertificados;
 import CapaEntidades.EmpresaCertificados;
-
 import java.util.ArrayList;
 
 public class LectorEmpresaCertificados extends LectorRelacion<EmpresaCertificados> {
-    //private RepositorioEmpresaCertificados repositorio= new RepositorioEmpresaCertificados();
+    private RepositorioEmpresaCertificados repositorio= new RepositorioEmpresaCertificados();
     @Override
     public EmpresaCertificados getEntidadId(Object id) {
-        //return repositorio.seleccionarId(id);
-        return null;
+        return repositorio.seleccionarId(id);
     }
 
     @Override
     public ArrayList<EmpresaCertificados> getEntidades() {
-        // return repositorio.selectionarTodo();
-        return null;
+        return repositorio.seleccionarTodo();
+
     }
 
     @Override

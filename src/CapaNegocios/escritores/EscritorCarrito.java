@@ -1,9 +1,10 @@
 package CapaNegocios.escritores;
 
+import CapaDatos.repositorios.RepositorioCarrito;
 import CapaEntidades.Carrito;
 
 public class EscritorCarrito extends Escritor<Carrito> {
-    //private RepositorioCarrito repositorio = new RepositorioCarrito();
+    private RepositorioCarrito repositorio = new RepositorioCarrito();
     public EscritorCarrito(int operacion, Carrito carrito) {
         super(operacion, carrito);
     }
@@ -15,15 +16,14 @@ public class EscritorCarrito extends Escritor<Carrito> {
     @Override
     public boolean ejecutarCambios() {
         if (operacion == OPERACION_ALTA)
-            //repositorio.alta(entidad);
-            return false;
+            return repositorio.alta(entidad);
 
         if (operacion == OPERACION_BAJA)
-            //return repositorio.baja(entidad.getIdDetalles());
-            return false;
+            return repositorio.baja(entidad.getIdCar());
+
         if (operacion == OPERACION_CAMBIO)
-            //return repositorio.cambio(entidad,entidadCambio);
-            return false;
+            return repositorio.cambio(entidad.getIdCar(),entidadCambio);
+
 
 
         return false;

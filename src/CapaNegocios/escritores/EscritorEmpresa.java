@@ -23,11 +23,11 @@ public class EscritorEmpresa extends  Escritor<Empresa> {
             return repositorio.alta(entidad);
 
         if (operacion == OPERACION_BAJA)
-            //return repositorio.baja(entidad.getIdDetalles());
-            return false;
+            return repositorio.baja(entidad.getIdEmpresa());
+
         if (operacion == OPERACION_CAMBIO)
-            //return repositorio.cambio(entidad,entidadCambio);
-            return false;
+            return repositorio.cambio(entidad.getIdEmpresa(),entidadCambio);
+
 
 
         return false;

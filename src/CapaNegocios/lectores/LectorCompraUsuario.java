@@ -1,11 +1,13 @@
 package CapaNegocios.lectores;
 
+import CapaDatos.repositorios.RepositorioCompraUsuario;
 import CapaEntidades.CompraUsuario;
 
 import java.util.ArrayList;
 
 public class LectorCompraUsuario extends LectorRelacion<CompraUsuario> {
-
+    private  RepositorioCompraUsuario repositorio = new RepositorioCompraUsuario();
+    //check meth
     @Override
     public ArrayList<CompraUsuario> getEntidadesId(Object id) {
         return null;
@@ -13,8 +15,9 @@ public class LectorCompraUsuario extends LectorRelacion<CompraUsuario> {
 
     @Override
     public CompraUsuario getEntidadId(Object id) {
-        // return repositorio.selectionarId(id);
+         //return repositorio.
         return null;
+
     }
 
     @Override
