@@ -9,10 +9,8 @@ public class LectorEmpresa extends Lector<Empresa> {
     private RepositorioEmpresa repositorio = new RepositorioEmpresa();
     @Override
     public Empresa getEntidadId(Object id) {
+        return repositorio.seleccionarId(id);
 
-
-        //return repositorio.seleccionarId(id);
-        return null;
     }
 
     @Override

@@ -1,9 +1,11 @@
 package CapaNegocios.escritores;
 
+import CapaDatos.repositorios.RepositorioProductoTerreno;
 import CapaEntidades.ProductoTerreno;
 
 public class EscritorProductoTerreno extends  EscritorRelacion<ProductoTerreno> {
-    // private RepositorioProductoTerreno repositorio = new RepositorioProductoTerreno();
+    //checar id
+    private RepositorioProductoTerreno repositorio = new RepositorioProductoTerreno();
     public EscritorProductoTerreno(int operacion, ProductoTerreno productoTerreno) {
         super(operacion, productoTerreno);
     }
@@ -15,15 +17,15 @@ public class EscritorProductoTerreno extends  EscritorRelacion<ProductoTerreno> 
     @Override
     public boolean ejecutarCambios() {
         if (operacion == OPERACION_ALTA)
-            //repositorio.alta(entidad);
-            return false;
+            repositorio.alta(entidad);
+
 
         if (operacion == OPERACION_BAJA)
-            //return repositorio.baja(entidad.getIdDetalles());
-            return false;
+            return repositorio.baja(entidad.getIdTerreno());
+
         if (operacion == OPERACION_CAMBIO)
-            //return repositorio.cambio(entidad,entidadCambio);
-            return false;
+            return repositorio.cambio(entidad.getIdTerreno(),entidadCambio);
+
 
 
         return false;

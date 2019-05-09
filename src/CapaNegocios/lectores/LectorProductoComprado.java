@@ -1,13 +1,15 @@
 package CapaNegocios.lectores;
 
+import CapaDatos.repositorios.RepositorioProductoCompra;
 import CapaEntidades.ProductoComprado;
 
 import java.util.ArrayList;
 
 public class LectorProductoComprado extends Lector<ProductoComprado> {
+    private  RepositorioProductoCompra repositorio = new RepositorioProductoCompra();
     @Override
     public ProductoComprado getEntidadId(Object id) {
-        // return repositorio.selectionarId(id);
+        //return repositorio.
         return null;
     }
 

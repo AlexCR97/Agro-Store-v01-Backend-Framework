@@ -2,47 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ee2d0eb-6fd6-4663-8315-a1fa41681c75" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Agro Store v01/CapaEntidades/Detalles.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Agro Store v01/CapaDatos/conexiones/BaseDeDatos.class" afterPath="$PROJECT_DIR$/out/production/Agro Store v01/CapaDatos/conexiones/BaseDeDatos.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Agro Store v01/CapaDatos/contratos/IContrato.class" afterPath="$PROJECT_DIR$/out/production/Agro Store v01/CapaDatos/contratos/IContrato.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Agro Store v01/CapaDatos/contratos/IContratoRelacion.class" afterPath="$PROJECT_DIR$/out/production/Agro Store v01/CapaDatos/contratos/IContratoRelacion.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Agro Store v01/CapaDatos/repositorios/Repositorio.class" afterPath="$PROJECT_DIR$/out/production/Agro Store v01/CapaDatos/repositorios/Repositorio.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Agro Store v01/CapaDatos/repositorios/RepositorioRelacion.class" afterPath="$PROJECT_DIR$/out/production/Agro Store v01/CapaDatos/repositorios/RepositorioRelacion.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Agro Store v01/CapaEntidades/TipoUsuario.class" afterPath="$PROJECT_DIR$/out/production/Agro Store v01/CapaEntidades/TipoUsuario.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Agro Store v01/CapaNegocios/escritores/Escritor.class" afterPath="$PROJECT_DIR$/out/production/Agro Store v01/CapaNegocios/escritores/Escritor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Agro Store v01/CapaNegocios/escritores/EscritorRelacion.class" afterPath="$PROJECT_DIR$/out/production/Agro Store v01/CapaNegocios/escritores/EscritorRelacion.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Agro Store v01/CapaNegocios/lectores/Lector.class" afterPath="$PROJECT_DIR$/out/production/Agro Store v01/CapaNegocios/lectores/Lector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Agro Store v01/CapaNegocios/lectores/LectorRelacion.class" afterPath="$PROJECT_DIR$/out/production/Agro Store v01/CapaNegocios/lectores/LectorRelacion.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Agro Store v01/CapaNegocios/validaciones/Validacion.class" afterPath="$PROJECT_DIR$/out/production/Agro Store v01/CapaNegocios/validaciones/Validacion.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Agro Store v01/CapaPresentacion/Main.class" afterPath="$PROJECT_DIR$/out/production/Agro Store v01/CapaPresentacion/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioCarrito.java" afterPath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioCarrito.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioCategorias.java" afterPath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioCategorias.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioCertificados.java" afterPath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioCertificados.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioDetalleVenta.java" afterPath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioDetalleVenta.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioDetallesUsuario.java" afterPath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioDetallesUsuario.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioEmpresa.java" afterPath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioEmpresa.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioEmpresaCertificados.java" afterPath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioEmpresaCertificados.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioMultiplesCompras.java" afterPath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioMultiplesCompras.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioNotificaciones.java" afterPath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioNotificaciones.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioProducto.java" afterPath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioProducto.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioProductoTerreno.java" afterPath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioProductoTerreno.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTarjetas.java" afterPath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTarjetas.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTarjetasUsuario.java" afterPath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTarjetasUsuario.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTerreno.java" afterPath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTerreno.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTerrenosUsuario.java" afterPath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTerrenosUsuario.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTipoUsuario.java" afterPath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTipoUsuario.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioUsuario.java" afterPath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioUsuario.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioUsuarioCertificado.java" afterPath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioUsuarioCertificado.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioUsuarioNotificaciones.java" afterPath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioUsuarioNotificaciones.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioVenta.java" afterPath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioVenta.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorEmpresa.java" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorEmpresa.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorEmpresa.java" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorEmpresa.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaPresentacion/Main.java" afterPath="$PROJECT_DIR$/src/CapaPresentacion/Main.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCarrito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCarrito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCategorias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCategorias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCertificados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCertificados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorDetalles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorDetalles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorDetallesVenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorDetallesVenta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorEmpresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorEmpresa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorEmpresaCertificados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorEmpresaCertificados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorMultiplesCompras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorMultiplesCompras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorNotificaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorNotificaciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorProducto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorProducto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorProductoTerreno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorProductoTerreno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTarjetas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTarjetas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTarjetasUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTarjetasUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTerreno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTerreno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTerrenosUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTerrenosUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTipoUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTipoUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuarioCertificado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuarioCertificado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuarioNotificaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuarioNotificaciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorVenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorVenta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCarrito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCarrito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCategorias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCategorias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCertificados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCertificados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCompraUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCompraUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorDetalles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorDetalles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorDetallesVenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorDetallesVenta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorEmpresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorEmpresa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorEmpresaCertificados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorEmpresaCertificados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorMultiplesCompras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorMultiplesCompras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorNotificaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorNotificaciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProducto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProducto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProductoComprado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProductoComprado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProductoTerreno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProductoTerreno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTarjetas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTarjetas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTarjetasUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTarjetasUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTerreno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTerreno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTerrenosUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTerrenosUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTipoUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTipoUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuarioCertificado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuarioCertificado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuarioNotificaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuarioNotificaciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorVenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorVenta.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,32 +59,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorEmpresa.java" />
-        <option value="$PROJECT_DIR$/src/CapaPresentacion/Main.java" />
-        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorEmpresa.java" />
-        <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/Repositorio.java" />
-        <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioCarrito.java" />
-        <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTarjetas.java" />
-        <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioProductoCompra.java" />
-        <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioUsuario.java" />
-        <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioCategorias.java" />
-        <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioCertificados.java" />
-        <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioDetallesUsuario.java" />
-        <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioDetalleVenta.java" />
-        <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioEmpresa.java" />
-        <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioEmpresaCertificados.java" />
-        <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioMultiplesCompras.java" />
-        <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioNotificaciones.java" />
-        <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioProducto.java" />
-        <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioProductoTerreno.java" />
         <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTarjetasUsuario.java" />
         <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTerreno.java" />
         <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTerrenosUsuario.java" />
@@ -87,57 +69,98 @@
         <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioUsuarioCertificado.java" />
         <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioUsuarioNotificaciones.java" />
         <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioVenta.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCarrito.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCategorias.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCertificados.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCompraUsuario.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorDetalles.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorDetallesVenta.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorEmpresa.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorEmpresaCertificados.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorMultiplesCompras.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorNotificaciones.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorProducto.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorProductoComprado.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTarjetas.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorProductoTerreno.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTarjetasUsuario.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTerreno.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTerrenosUsuario.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTipoUsuario.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuario.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuarioCertificado.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuarioNotificaciones.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorVenta.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCarrito.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCategorias.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCertificados.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCompraUsuario.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorDetallesVenta.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorEmpresa.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorDetalles.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorEmpresaCertificados.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorMultiplesCompras.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorNotificaciones.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProducto.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProductoComprado.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProductoTerreno.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTarjetas.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTerreno.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTerrenosUsuario.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTarjetasUsuario.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTipoUsuario.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuario.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuarioCertificado.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuarioNotificaciones.java" />
+        <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorVenta.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="378" />
-    <option name="y" value="137" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="739" />
+    <option name="y" value="244" />
     <option name="width" value="1026" />
     <option name="height" value="546" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="BACKEND" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BACKEND" type="462c0819:PsiDirectoryNode" />
+              <item name="AGROSTORE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AGROSTORE" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BACKEND" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BACKEND" type="462c0819:PsiDirectoryNode" />
+              <item name="AGROSTORE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AGROSTORE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BACKEND" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BACKEND" type="462c0819:PsiDirectoryNode" />
+              <item name="AGROSTORE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AGROSTORE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="CapaDatos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AGROSTORE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AGROSTORE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="CapaNegocios" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557362191212" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -151,115 +174,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="CapaPresentacion.Main" />
+      <module name="Agro Store v01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CapaPresentacion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="CapaPresentacion.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Agro Store v01" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <list>
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -272,302 +245,512 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.72712934" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25036603" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13615733" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.72712934" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.329653" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorDetallesVenta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorEmpresa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorEmpresa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="289">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/Repositorio.java">
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorEmpresa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="402">
+          <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioRelacion.java">
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorEmpresaCertificados.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="65" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorMultiplesCompras.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorNotificaciones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorRelacion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTarjetas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaPresentacion/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaDatos/contratos/IContrato.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding />
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaEntidades/Tarjetas.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioProductoCompra.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-          <folding />
+        <state>
+          <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaEntidades/Usuario.java">
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorProductoComprado.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-          <folding />
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioCarrito.java">
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorProductoTerreno.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="94" column="23" lean-forward="true" selection-start-line="73" selection-start-column="8" selection-end-line="94" selection-end-column="23" />
-          <folding />
+        <state relative-caret-position="85">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioCategorias.java">
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorProducto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-          <folding />
+        <state relative-caret-position="379">
+          <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioCertificados.java">
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTarjetas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-          <folding />
+        <state relative-caret-position="85">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTipoUsuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="57" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTerrenosUsuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="60" lean-forward="true" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTerreno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTarjetasUsuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTipoUsuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTerrenosUsuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorVenta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuarioNotificaciones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuarioCertificado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="65" selection-start-line="26" selection-start-column="65" selection-end-line="26" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioCompraUsuario.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioDetallesUsuario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioDetalleVenta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioEmpresa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioEmpresaCertificados.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioMultiplesCompras.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioNotificaciones.java">
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCategorias.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding />
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioProducto.java">
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCarrito.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="238">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTarjetasUsuario.java">
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCertificados.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-          <folding />
+        <state relative-caret-position="255">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTerrenosUsuario.java">
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCompraUsuario.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="221">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorDetalles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorDetallesVenta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorEmpresa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorEmpresaCertificados.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+          <folding>
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorRelacion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProductoComprado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProducto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+          <folding>
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorNotificaciones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding>
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProductoTerreno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorMultiplesCompras.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTarjetas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTarjetasUsuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTerreno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding>
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTerrenosUsuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaEntidades/TipoUsuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+          <folding>
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaDatos/contratos/IContrato.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTipoUsuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          <folding>
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioUsuario.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="9" lean-forward="true" selection-start-line="8" selection-start-column="83" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuarioCertificado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuarioNotificaciones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorVenta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/validaciones/ValidacionCarrito.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioUsuarioNotificaciones.java">
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/validaciones/ValidacionCategorias.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioVenta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioUsuarioCertificado.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTipoUsuario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTerreno.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTarjetas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioProductoTerreno.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-          <folding />
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>

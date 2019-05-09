@@ -1,11 +1,14 @@
 package CapaNegocios.lectores;
 
+import CapaDatos.repositorios.RepositorioNotificaciones;
+import CapaDatos.repositorios.RepositorioUsuarioNotificaciones;
 import CapaEntidades.UsuarioNotificaciones;
 
 import java.util.ArrayList;
 
 public class LectorUsuarioNotificaciones extends LectorRelacion<UsuarioNotificaciones> {
-    //repositorio
+    private RepositorioUsuarioNotificaciones repositorio = new RepositorioUsuarioNotificaciones();
+
     @Override
     public ArrayList<UsuarioNotificaciones> getEntidadesId(Object id) {
         return null;
@@ -13,13 +16,14 @@ public class LectorUsuarioNotificaciones extends LectorRelacion<UsuarioNotificac
 
     @Override
     public UsuarioNotificaciones getEntidadId(Object id) {
-        //repositorio.selecctionarId(id);
-        return null;
+        return  repositorio.seleccionarId(id);
+
+
     }
 
     @Override
     public ArrayList<UsuarioNotificaciones> getEntidades() {
-        // return repositorio.selectionarTodo();
-        return null;
+        return repositorio.seleccionarTodo();
+
     }
 }

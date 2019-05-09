@@ -1,19 +1,19 @@
 package CapaNegocios.lectores;
+import CapaDatos.repositorios.RepositorioDetallesUsuario;
 import CapaEntidades.DetallesUsuario;
 
 import java.util.ArrayList;
-//import CapaDatos.repositorios.RepositorioProfesor
 public class LectorDetalles extends Lector<DetallesUsuario> {
-    //private RepositorioDetallesUsuario repositorio = new RepositorioDetallesUsuario();
+    private RepositorioDetallesUsuario repositorio = new RepositorioDetallesUsuario();
     @Override
     public DetallesUsuario getEntidadId(Object id) {
-        //return repositorio.seleccionarId(id);
-        return null;
+        return repositorio.seleccionarId(id);
+
     }
 
     @Override
     public ArrayList<DetallesUsuario> getEntidades() {
-        //return repositorio.seleccionarTodo();
-        return null;
+        return repositorio.seleccionarTodo();
+
     }
 }

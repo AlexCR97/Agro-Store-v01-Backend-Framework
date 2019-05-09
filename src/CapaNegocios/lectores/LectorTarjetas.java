@@ -1,20 +1,20 @@
 package CapaNegocios.lectores;
 
 import CapaDatos.repositorios.RepositorioRelacion;
+import CapaDatos.repositorios.RepositorioTarjetas;
 import CapaEntidades.Tarjetas;
 import java.util.ArrayList;
 public  class LectorTarjetas extends Lector<Tarjetas> {
-    //private RepositorioTarjetas repositorio = new RepositorioTarjetas();
+    private RepositorioTarjetas repositorio = new RepositorioTarjetas();
     @Override
     public Tarjetas getEntidadId(Object id) {
-        //return repositorio.SeleccionId(id);
-        return null;
+        return repositorio.seleccionarId(id);
     }
 
     @Override
     public ArrayList<Tarjetas> getEntidades() {
-        //return repositorio.SeleccionarTodo();
-        return null;
+        return repositorio.seleccionarTodo();
+
     }
 
 
