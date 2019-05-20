@@ -1,28 +1,33 @@
 package CapaNegocios.escritores;
 
+import CapaDatos.repositorios.RepositorioTipoUsuario;
+import CapaEntidades.TipoUsuario;
 import CapaEntidades.Usuario;
 
-public class EscritorTipoUsuario extends Escritor<Usuario> {
-    public EscritorTipoUsuario(int operacion, Usuario usuario) {
-        super(operacion, usuario);
+public class EscritorTipoUsuario extends Escritor<TipoUsuario> {
+    private RepositorioTipoUsuario repositorio = new RepositorioTipoUsuario();
+
+    public EscritorTipoUsuario(int operacion, TipoUsuario tipoUsuario) {
+        super(operacion, tipoUsuario);
     }
 
-    public EscritorTipoUsuario(int operacion, Usuario usuario, Usuario entidadCambio) {
-        super(operacion, usuario, entidadCambio);
+    public EscritorTipoUsuario(int operacion, TipoUsuario tipoUsuario, TipoUsuario entidadCambio) {
+        super(operacion, tipoUsuario, entidadCambio);
     }
+
 
     @Override
     public boolean ejecutarCambios() {
         if (operacion == OPERACION_ALTA)
-            //return repositorio.alta(entidad);
-            return false;
+            return repositorio.alta(entidad);
+
 
         if (operacion == OPERACION_BAJA)
-            //return repositorio.baja(entidad.getIdDetalles());
-            return false;
+            return repositorio.baja(entidad.getIdTipo());
+
         if (operacion == OPERACION_CAMBIO)
-            //return repositorio.cambio(entidad,entidadCambio);
-            return false;
+            return repositorio.cambio(entidad.getIdTipo(),entidadCambio);
+
 
         return false;
     }

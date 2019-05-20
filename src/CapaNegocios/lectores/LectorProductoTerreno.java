@@ -1,24 +1,25 @@
 package CapaNegocios.lectores;
 
+import CapaDatos.repositorios.RepositorioProductoTerreno;
 import CapaEntidades.ProductoTerreno;
 
 import java.util.ArrayList;
 
 public class LectorProductoTerreno extends  LectorRelacion<ProductoTerreno> {
-    //private RepositorioProductoTerreno repositorio = new RepositorioProductoTerreno();
+    private RepositorioProductoTerreno repositorio = new RepositorioProductoTerreno();
     @Override
     public ArrayList<ProductoTerreno> getEntidadesId(Object id) {
-
-        return null;
+        return  null;
     }
 
     @Override
     public ProductoTerreno getEntidadId(Object id) {
-        return null;
+        return repositorio.seleccionarId(id);
     }
 
     @Override
-    public ArrayList<ProductoTerreno> getEntidades() {
-        return null;
+    public ArrayList<ProductoTerreno> getEntidades()
+    {
+        return repositorio.seleccionarTodo();
     }
 }

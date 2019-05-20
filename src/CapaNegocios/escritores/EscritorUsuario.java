@@ -1,8 +1,10 @@
 package CapaNegocios.escritores;
 
+import CapaDatos.repositorios.RepositorioUsuario;
 import CapaEntidades.Usuario;
 
 public class EscritorUsuario extends Escritor<Usuario> {
+    private RepositorioUsuario repositorio = new RepositorioUsuario();
     public EscritorUsuario(int operacion, Usuario usuario) {
         super(operacion, usuario);
     }
@@ -14,15 +16,15 @@ public class EscritorUsuario extends Escritor<Usuario> {
     @Override
     public boolean ejecutarCambios() {
         if (operacion == OPERACION_ALTA)
-            //return repositorio.alta(entidad);
-            return false;
+            return repositorio.alta(entidad);
+
 
         if (operacion == OPERACION_BAJA)
-            //return repositorio.baja(entidad.getIdDetalles());
-            return false;
+            return repositorio.baja(entidad.getIdUsuario());
+
         if (operacion == OPERACION_CAMBIO)
-            //return repositorio.cambio(entidad,entidadCambio);
-            return false;
+            return repositorio.cambio(entidad.getIdUsuario(),entidadCambio);
+
 
         return false;
     }

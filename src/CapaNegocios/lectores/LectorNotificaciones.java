@@ -1,20 +1,20 @@
 package CapaNegocios.lectores;
 
+import CapaDatos.repositorios.RepositorioNotificaciones;
 import CapaEntidades.Notificaciones;
 
 import java.util.ArrayList;
 
 public class LectorNotificaciones extends Lector<Notificaciones> {
-    // private RepositorioNotificaciones repositorio = new RepositorioNotificaciones();
+     private RepositorioNotificaciones repositorio = new RepositorioNotificaciones();
     @Override
     public Notificaciones getEntidadId(Object id) {
-    //repositorio.seleccionarId(id);
-        return null;
+        return repositorio.seleccionarId(id);
     }
 
     @Override
     public ArrayList<Notificaciones> getEntidades() {
-        // return repositorio.selectionarTodo();
-        return null;
+         return repositorio.seleccionarTodo();
+
     }
 }

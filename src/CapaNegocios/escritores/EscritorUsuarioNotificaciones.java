@@ -1,9 +1,10 @@
 package CapaNegocios.escritores;
 
+import CapaDatos.repositorios.RepositorioUsuarioNotificaciones;
 import CapaEntidades.UsuarioNotificaciones;
 
 public class EscritorUsuarioNotificaciones extends  EscritorRelacion<UsuarioNotificaciones> {
-    //private RepositorioUsuarioNotificaciones repositorio = new RepositorioUsuarioNotificaciones();
+    private RepositorioUsuarioNotificaciones repositorio = new RepositorioUsuarioNotificaciones();
 
     public EscritorUsuarioNotificaciones(int operacion, UsuarioNotificaciones usuarioNotificaciones) {
         super(operacion, usuarioNotificaciones);
@@ -16,15 +17,15 @@ public class EscritorUsuarioNotificaciones extends  EscritorRelacion<UsuarioNoti
     @Override
     public boolean ejecutarCambios() {
         if (operacion == OPERACION_ALTA)
-            //repositorio.alta(entidad);
-            return false;
+            repositorio.alta(entidad);
+
 
         if (operacion == OPERACION_BAJA)
-            //return repositorio.baja(entidad.getIdDetalles());
-            return false;
+            return repositorio.baja(entidad.getIdNotificacion());
+
         if (operacion == OPERACION_CAMBIO)
-            //return repositorio.cambio(entidad,entidadCambio);
-            return false;
+            return repositorio.cambio(entidad.getIdNotificacion(),entidadCambio);
+
 
 
         return false;
