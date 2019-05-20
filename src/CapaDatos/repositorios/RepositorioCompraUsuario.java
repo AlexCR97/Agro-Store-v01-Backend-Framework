@@ -1,4 +1,6 @@
 package CapaDatos.repositorios;
 
-public class RepositorioCompraUsuario {
+import CapaDatos.contratos.IContrato;
+
+public class RepositorioCompraUsuario extends Repositorio implements IContrato<CompraUsuario>{
 }
