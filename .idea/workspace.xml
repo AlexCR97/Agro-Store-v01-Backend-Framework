@@ -1,51 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ee2d0eb-6fd6-4663-8315-a1fa41681c75" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCarrito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCarrito.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCategorias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCategorias.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCertificados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCertificados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorDetalles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorDetalles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorDetallesVenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorDetallesVenta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorEmpresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorEmpresa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorEmpresaCertificados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorEmpresaCertificados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorMultiplesCompras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorMultiplesCompras.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorNotificaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorNotificaciones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorProducto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorProducto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorProductoTerreno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorProductoTerreno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTarjetas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTarjetas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTarjetasUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTarjetasUsuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTerreno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTerreno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTerrenosUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTerrenosUsuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTipoUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTipoUsuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuarioCertificado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuarioCertificado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuarioNotificaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuarioNotificaciones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorVenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorVenta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCarrito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCarrito.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCategorias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCategorias.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCertificados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCertificados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCompraUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCompraUsuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorDetalles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorDetalles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorDetallesVenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorDetallesVenta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorEmpresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorEmpresa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorEmpresaCertificados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorEmpresaCertificados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorMultiplesCompras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorMultiplesCompras.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorNotificaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorNotificaciones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProducto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProducto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProductoComprado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProductoComprado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProductoTerreno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProductoTerreno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTarjetas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTarjetas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTarjetasUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTarjetasUsuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTerreno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTerreno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTerrenosUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTerrenosUsuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTipoUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTipoUsuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuarioCertificado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuarioCertificado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuarioNotificaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuarioNotificaciones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorVenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorVenta.java" afterDir="false" />
-    </list>
+    <list default="true" id="8ee2d0eb-6fd6-4663-8315-a1fa41681c75" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +84,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,12 +106,19 @@
               <item name="AGROSTORE" type="b2602c69:ProjectViewProjectNode" />
               <item name="AGROSTORE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="CapaEntidades" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AGROSTORE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AGROSTORE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="CapaNegocios" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,7 +209,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13615733" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1376702" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
