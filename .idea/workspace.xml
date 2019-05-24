@@ -1,7 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="8ee2d0eb-6fd6-4663-8315-a1fa41681c75" name="Default" comment="" />
+=======
+    <list default="true" id="8ee2d0eb-6fd6-4663-8315-a1fa41681c75" name="Default" comment="">
+<<<<<<< HEAD
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioCompraUsuario.java" afterPath="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioCompraUsuario.java" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCarrito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCarrito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCategorias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCategorias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCertificados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCertificados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorDetalles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorDetalles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorDetallesVenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorDetallesVenta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorEmpresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorEmpresa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorEmpresaCertificados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorEmpresaCertificados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorMultiplesCompras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorMultiplesCompras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorNotificaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorNotificaciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorProducto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorProducto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorProductoTerreno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorProductoTerreno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTarjetas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTarjetas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTarjetasUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTarjetasUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTerreno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTerreno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTerrenosUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTerrenosUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTipoUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorTipoUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuarioCertificado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuarioCertificado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuarioNotificaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuarioNotificaciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorVenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorVenta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCarrito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCarrito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCategorias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCategorias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCertificados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCertificados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCompraUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCompraUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorDetalles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorDetalles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorDetallesVenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorDetallesVenta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorEmpresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorEmpresa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorEmpresaCertificados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorEmpresaCertificados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorMultiplesCompras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorMultiplesCompras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorNotificaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorNotificaciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProducto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProducto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProductoComprado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProductoComprado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProductoTerreno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProductoTerreno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTarjetas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTarjetas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTarjetasUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTarjetasUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTerreno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTerreno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTerrenosUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTerrenosUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTipoUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTipoUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuarioCertificado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuarioCertificado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuarioNotificaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuarioNotificaciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorVenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorVenta.java" afterDir="false" />
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
+    </list>
+>>>>>>> 94aaafd2492d0416b6ed60078d97215fd99955ce
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +63,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RepositorioCompraUsuario.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioCompraUsuario.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RepositorioProductoCompra.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioProductoCompra.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,6 +99,9 @@
         <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioUsuarioCertificado.java" />
         <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioUsuarioNotificaciones.java" />
         <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioVenta.java" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioCompraUsuario.java" />
+=======
         <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCarrito.java" />
         <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCategorias.java" />
         <option value="$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorCertificados.java" />
@@ -69,12 +146,18 @@
         <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuarioCertificado.java" />
         <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuarioNotificaciones.java" />
         <option value="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorVenta.java" />
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
+    <option name="x" value="378" />
+    <option name="y" value="137" />
+=======
     <option name="x" value="739" />
     <option name="y" value="244" />
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
     <option name="width" value="1026" />
     <option name="height" value="546" />
   </component>
@@ -84,6 +167,13 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+      <pane id="PackagesPane" />
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
+>>>>>>> 94aaafd2492d0416b6ed60078d97215fd99955ce
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,6 +193,19 @@
               <item name="CapaDatos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
+              <item name="BACKEND" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BACKEND" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="CapaDatos" type="462c0819:PsiDirectoryNode" />
+              <item name="repositorios" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BACKEND" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BACKEND" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="CapaEntidades" type="462c0819:PsiDirectoryNode" />
+=======
               <item name="AGROSTORE" type="b2602c69:ProjectViewProjectNode" />
               <item name="AGROSTORE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
@@ -113,12 +216,17 @@
               <item name="AGROSTORE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="CapaNegocios" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
+=======
+      <pane id="AndroidView" />
+>>>>>>> 94aaafd2492d0416b6ed60078d97215fd99955ce
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,6 +315,37 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.72712934" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18448023" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+=======
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1376702" />
@@ -236,10 +375,15 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
     </layout>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioCompraUsuario.java">
+=======
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorDetallesVenta.java">
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
@@ -249,6 +393,43 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioProductoCompra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioCompraUsuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioProductoCompra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorEmpresa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+=======
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorEmpresa.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="402">
@@ -256,26 +437,37 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorEmpresaCertificados.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="40">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+=======
         <state relative-caret-position="408">
           <caret line="25" column="65" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorMultiplesCompras.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="68">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+=======
         <state relative-caret-position="408">
           <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
@@ -299,6 +491,9 @@
     <entry file="file://$PROJECT_DIR$/src/CapaEntidades/Tarjetas.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
+<<<<<<< HEAD
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+=======
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
@@ -334,6 +529,7 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
@@ -392,29 +588,47 @@
     <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTipoUsuario.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
+<<<<<<< HEAD
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+=======
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioTerrenosUsuario.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="147">
+          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+=======
         <state relative-caret-position="68">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorVenta.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="51">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+=======
         <state relative-caret-position="357">
           <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuarioNotificaciones.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+=======
         <state relative-caret-position="391">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
@@ -430,11 +644,16 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/escritores/EscritorUsuario.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="408">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+=======
         <state relative-caret-position="357">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
@@ -447,12 +666,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorCategorias.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
+<<<<<<< HEAD
+          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+=======
           <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding>
             <element signature="e#471#472#0" expanded="true" />
@@ -486,6 +709,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
@@ -506,6 +730,9 @@
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorEmpresa.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
+<<<<<<< HEAD
+          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+=======
           <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
@@ -527,40 +754,60 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProductoComprado.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="121">
+          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+=======
         <state relative-caret-position="136">
           <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProducto.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="153">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+=======
         <state relative-caret-position="221">
           <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
           <folding>
             <element signature="e#329#330#0" expanded="true" />
             <element signature="e#381#382#0" expanded="true" />
           </folding>
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorNotificaciones.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="153">
+          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+=======
         <state relative-caret-position="221">
           <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
           <folding>
             <element signature="e#373#374#0" expanded="true" />
             <element signature="e#422#423#0" expanded="true" />
           </folding>
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorProductoTerreno.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="88">
+          <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+=======
         <state relative-caret-position="323">
           <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
           <folding>
@@ -571,36 +818,56 @@
             <element signature="e#623#624#0" expanded="true" />
             <element signature="e#675#676#0" expanded="true" />
           </folding>
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorMultiplesCompras.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="152">
+          <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+=======
         <state relative-caret-position="238">
           <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTarjetas.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="170">
+          <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+=======
         <state relative-caret-position="221">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#380#381#0" expanded="true" />
             <element signature="e#432#433#0" expanded="true" />
           </folding>
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTarjetasUsuario.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="68">
+          <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+=======
         <state relative-caret-position="323">
           <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTerreno.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="170">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+=======
         <state relative-caret-position="221">
           <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
           <folding>
@@ -609,6 +876,7 @@
             <element signature="e#441#442#0" expanded="true" />
             <element signature="e#493#494#0" expanded="true" />
           </folding>
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
@@ -628,6 +896,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaEntidades/TipoUsuario.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="143">
+          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+=======
         <state relative-caret-position="493">
           <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
           <folding>
@@ -640,18 +912,28 @@
             <element signature="e#628#629#0" expanded="true" />
             <element signature="e#674#675#0" expanded="true" />
           </folding>
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaDatos/contratos/IContrato.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="68">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+=======
         <state relative-caret-position="51">
           <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorTipoUsuario.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="170">
+          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+=======
         <state relative-caret-position="238">
           <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
           <folding>
@@ -660,50 +942,103 @@
             <element signature="e#520#521#0" expanded="true" />
             <element signature="e#571#572#0" expanded="true" />
           </folding>
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioUsuario.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="170">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+=======
         <state relative-caret-position="56">
           <caret line="9" lean-forward="true" selection-start-line="8" selection-start-column="83" selection-end-line="9" />
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuarioCertificado.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="153">
+          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+=======
         <state relative-caret-position="340">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuario.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="140">
+          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+=======
         <state relative-caret-position="272">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorUsuarioNotificaciones.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="170">
+          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+=======
         <state relative-caret-position="374">
           <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="e#504#505#0" expanded="true" />
             <element signature="e#531#532#0" expanded="true" />
           </folding>
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/lectores/LectorVenta.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="102">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+=======
         <state relative-caret-position="255">
           <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CapaNegocios/validaciones/ValidacionCarrito.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="170">
+          <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioCarrito.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioProductoCompra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CapaDatos/repositorios/RepositorioCompraUsuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+=======
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
@@ -713,6 +1048,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+>>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
         </state>
       </provider>
     </entry>
