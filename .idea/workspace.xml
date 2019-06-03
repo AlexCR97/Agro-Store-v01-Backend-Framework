@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="8ee2d0eb-6fd6-4663-8315-a1fa41681c75" name="Default" comment="" />
+=======
     <list default="true" id="8ee2d0eb-6fd6-4663-8315-a1fa41681c75" name="Default" comment="">
 <<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -51,6 +54,7 @@
       <change beforePath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorVenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapaNegocios/lectores/LectorVenta.java" afterDir="false" />
 >>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
     </list>
+>>>>>>> 94aaafd2492d0416b6ed60078d97215fd99955ce
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -165,8 +169,11 @@
       <pane id="Scope" />
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
       <pane id="PackagesPane" />
 >>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
+>>>>>>> 94aaafd2492d0416b6ed60078d97215fd99955ce
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,6 +209,12 @@
               <item name="AGROSTORE" type="b2602c69:ProjectViewProjectNode" />
               <item name="AGROSTORE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="CapaEntidades" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AGROSTORE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AGROSTORE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="CapaNegocios" type="462c0819:PsiDirectoryNode" />
 >>>>>>> 24c2e3a8f578a98515b4e0366e805cebf8fdf260
             </path>
@@ -209,7 +222,11 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+      <pane id="PackagesPane" />
+=======
       <pane id="AndroidView" />
+>>>>>>> 94aaafd2492d0416b6ed60078d97215fd99955ce
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -331,7 +348,7 @@
 =======
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13615733" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1376702" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
