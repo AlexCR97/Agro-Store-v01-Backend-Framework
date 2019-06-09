@@ -1,5 +1,7 @@
 package CapaEntidades;
 
+import java.sql.Date;
+
 public class DetallesUsuario {
 
     private long idDetalles;
@@ -15,11 +17,12 @@ public class DetallesUsuario {
     private String firmaElectronica;
     private String nombres;
     private String apellidos;
+    private java.sql.Date fecha;
 
     public DetallesUsuario() {
     }
 
-    public DetallesUsuario(String calle, String colonia, String cuidad, String estado, String pais, int cp, String escrituraOPermiso, double estrellas, String rfc, String firmaElectronica, String nombres, String apellidos) {
+    public DetallesUsuario(String calle, String colonia, String cuidad, String estado, String pais, int cp, String escrituraOPermiso, double estrellas, String rfc, String firmaElectronica, String nombres, String apellidos, Date fecha) {
         this.calle = calle;
         this.colonia = colonia;
         this.cuidad = cuidad;
@@ -32,9 +35,10 @@ public class DetallesUsuario {
         this.firmaElectronica = firmaElectronica;
         this.nombres = nombres;
         this.apellidos = apellidos;
+        this.fecha = fecha;
     }
 
-    public DetallesUsuario(long idDetalles, String calle, String colonia, String cuidad, String estado, String pais, int cp, String escrituraOPermiso, double estrellas, String rfc, String firmaElectronica, String nombres, String apellidos) {
+    public DetallesUsuario(long idDetalles, String calle, String colonia, String cuidad, String estado, String pais, int cp, String escrituraOPermiso, double estrellas, String rfc, String firmaElectronica, String nombres, String apellidos, Date fecha) {
         this.idDetalles = idDetalles;
         this.calle = calle;
         this.colonia = colonia;
@@ -48,6 +52,7 @@ public class DetallesUsuario {
         this.firmaElectronica = firmaElectronica;
         this.nombres = nombres;
         this.apellidos = apellidos;
+        this.fecha = fecha;
     }
 
     public long getIdDetalles() {
@@ -154,6 +159,14 @@ public class DetallesUsuario {
         this.apellidos = apellidos;
     }
 
+    public Date getFecha() {
+        return fecha;
+    }
+
+    public void setFecha(Date fecha) {
+        this.fecha = fecha;
+    }
+
     @Override
     public String toString() {
         return "DetallesUsuario{" +
@@ -170,6 +183,7 @@ public class DetallesUsuario {
                 ", firmaElectronica='" + firmaElectronica + '\'' +
                 ", nombres='" + nombres + '\'' +
                 ", apellidos='" + apellidos + '\'' +
+                ", fecha=" + fecha +
                 '}';
     }
 }
